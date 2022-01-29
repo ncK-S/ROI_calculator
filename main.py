@@ -22,7 +22,7 @@ while True:
             break
         
         #if user selects 1, run methods        
-        a = int(input("How much were your out of pocket expenses for the property?: "))
+        a = int(input("How much were your out of pocket expenses on the property?: "))
         b = int(input("How much did you generate in income from the property?: "))
         
         if(user == 1):
