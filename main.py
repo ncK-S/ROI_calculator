@@ -31,4 +31,5 @@ while True:
     
     else:
         print("Invalid Input")
+# this calculator is calculating annual ROI
 
